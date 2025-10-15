@@ -1,49 +1,18 @@
-<h1 align="center">👋 Hello! I'm Aiman Rosli</h1>
+## Hey there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<p align="center">
-I'm a software engineer based in Germany with a passion for merging technical expertise with design to create visually stunning and highly functional applications. My focus is on developing scalable and efficient software solutions that not only perform seamlessly but also captivate users with their intuitive and engaging experiences. 
+I'm [**Aiman**](https://aiman-dev.vercel.app/), a software developer based in Malaysia.
 
-By blending cutting-edge technology with thoughtful design principles, I strive to build software that excels in both performance and user satisfaction. My goal is to deliver applications that are not only robust and reliable but also provide a flawless and enjoyable experience for users.
-</p>
+I build things that make life simpler and workflows smoother, while the code behind it does all the heavy lifting, from quick side projects to complete apps.
 
-<h3>How I'd define myself...literally</h3>
+If an idea pops into my head, chances are I'll design it, build it and ship it.
 
- ```ruby
- class Aiman < Person
-   def initialize
-     @name = 'Aiman Rosli'
-     @age = 'Secret'
-     @hobbies = [ 'Weighlifting', 'Jog', 'Anime' ]
-   end
+My main tech stack is java, spring boot, typescript and next.js. My favourite tools are IntelliJ IDEA, Notepad++, Postman and Git.
 
-   def current_location
-     'Germany'
-   end
- end
- ```
- 
-<br>
+I've got a few pinned projects, but my current recent and favourite project is the [Lattaf Perfume](http://github.com/aimanroslii/lattaf-backend).
 
-### What I always play with
- 
-- CSS
-- HTML
-- JavaScript
-- TypeScript
-- Java
-- Python
-- C#
+#### Fun Facts:
 
-<br>
-
-### What frameworks that I always play with
-
-- Express
-- Node.js
-- .NET
-- ASP.NET CORE
-- Spring Boot
-- Micronaut
-- React
-
-<br>
+* I have Nintendo Switch and PlayStation console
+* I like coffee over tea
+* Demon Slayer is my favorite anime
+* **Hobbies:** anime, gym, building things
